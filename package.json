@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "buffer-replace": "^1.0.0",
+    "node-tcp-proxy": "^0.0.28"
+  }
+}
